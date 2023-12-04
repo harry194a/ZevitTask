@@ -26,7 +26,6 @@
     <ItemGroup>
       <Folder Include="Adapter\" />
       <Folder Include="Domain\Port\In\" />
-      <Folder Include="Infrastructure\" />
     </ItemGroup>
 
 </Project>
