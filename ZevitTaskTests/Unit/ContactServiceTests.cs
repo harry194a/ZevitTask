@@ -1,7 +1,6 @@
 using ZevitTask.Application.Models.In.Create;
 using ZevitTask.Application.Models.In.Mediator;
 using ZevitTask.Application.Models.In.Update;
-using ZevitTask.Application.Models.Out;
 using ZevitTask.Infrastructure.Out.Persistence.Repository;
 
 namespace ZevitTaskTests.Unit;

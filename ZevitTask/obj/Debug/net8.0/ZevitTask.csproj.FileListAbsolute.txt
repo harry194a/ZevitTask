@@ -126,3 +126,4 @@
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/obj/Debug/net8.0/ZevitTask.sourcelink.json
