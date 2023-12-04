@@ -141,3 +141,4 @@
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/obj/Debug/net8.0/ZevitTaskTests.sourcelink.json
