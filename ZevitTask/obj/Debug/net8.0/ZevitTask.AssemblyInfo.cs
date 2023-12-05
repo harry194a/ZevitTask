@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZevitTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1391e8afaa1385e2f9eacf6f5afcce0aa75cf1ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d08b8b95c6cdb634b78c201e9d914acfa5dd7fa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZevitTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZevitTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

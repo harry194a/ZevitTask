@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLRGU3avXoG6/28D2QQVZiVorebi8oYGjS+JrrBT4lbyZbcuRSnw5Zi96Ru1Ou8XD/FZZKgjhIApWacb+YhaRw==",
+  "dgSpecHash": "NlA00rDhbQxV6w23/fJMyAkAMmofEaDv7UcHY1sTZtHsS3nYNZCKhI08U1XFwsb4T1m6QY7MPt5dTyeFxez5wQ==",
   "success": true,
-  "projectFilePath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/ZevitTaskTests.csproj",
+  "projectFilePath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTaskTests/ZevitTaskTests.csproj",
   "expectedPackageFiles": [
     "/Users/harutyunbadeyangmail.com/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/harutyunbadeyangmail.com/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",

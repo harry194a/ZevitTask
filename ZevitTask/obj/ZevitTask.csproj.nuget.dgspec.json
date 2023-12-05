@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj": {}
+    "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj": {}
   },
   "projects": {
-    "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj": {
+    "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj",
+        "projectUniqueName": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj",
         "projectName": "ZevitTask",
-        "projectPath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj",
+        "projectPath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj",
         "packagesPath": "/Users/harutyunbadeyangmail.com/.nuget/packages/",
-        "outputPath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/obj/",
+        "outputPath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/harutyunbadeyangmail.com/.nuget/NuGet/NuGet.Config"
