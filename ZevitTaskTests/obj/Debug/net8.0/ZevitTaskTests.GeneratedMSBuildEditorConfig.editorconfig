@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ZevitTaskTests
-build_property.ProjectDir = /Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/
+build_property.ProjectDir = /Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTaskTests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

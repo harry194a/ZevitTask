@@ -54,6 +54,7 @@ public class ContactRepository : IContactRepository
         if (contactToRemove != null)
         {
             _contacts.Remove(contactToRemove);
+            _contacts.SaveChanges();
         }
     }
     

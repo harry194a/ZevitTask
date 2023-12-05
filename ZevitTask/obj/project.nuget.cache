@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PE87KGwGx3Lh6cE07PeKCiSlfBtef+besdjjimHb8DZxTfmOhMcLtLkrTcHWQ0Lk8bHL4f9LAtUL3EntJ58uMA==",
+  "dgSpecHash": "3KpAiEyl2AUkcQSu73goe+8BIFXTn/BXF9yLcJLwvtD7YF6Fwqm7H3hfSOqD5DaVF58hNJ80gkdf0j9HHdqmSA==",
   "success": true,
-  "projectFilePath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj",
+  "projectFilePath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj",
   "expectedPackageFiles": [
     "/Users/harutyunbadeyangmail.com/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/Users/harutyunbadeyangmail.com/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

@@ -8069,11 +8069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/ZevitTaskTests.csproj",
+      "projectUniqueName": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTaskTests/ZevitTaskTests.csproj",
       "projectName": "ZevitTaskTests",
-      "projectPath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/ZevitTaskTests.csproj",
+      "projectPath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTaskTests/ZevitTaskTests.csproj",
       "packagesPath": "/Users/harutyunbadeyangmail.com/.nuget/packages/",
-      "outputPath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTaskTests/obj/",
+      "outputPath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTaskTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harutyunbadeyangmail.com/.nuget/NuGet/NuGet.Config"
@@ -8088,8 +8088,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj": {
-              "projectPath": "/Users/harutyunbadeyangmail.com/RiderProjects/ZevitTask/ZevitTask/ZevitTask.csproj"
+            "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj": {
+              "projectPath": "/Users/harutyunbadeyangmail.com/Projects/personal/ZevitTaskT2/ZevitTask/ZevitTask.csproj"
             }
           }
         }
