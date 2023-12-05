@@ -32,7 +32,6 @@ public class ContactRepository : IContactRepository
         ContactEntity entity = ContactMediator.ToEntity(contactMediator);
         _contacts.Add(entity);
         _contacts.SaveChanges();
-        
         return ContactMediator.From(entity);
     }
 
