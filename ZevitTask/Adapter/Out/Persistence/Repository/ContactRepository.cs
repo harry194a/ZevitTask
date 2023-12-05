@@ -31,6 +31,8 @@ public class ContactRepository : IContactRepository
         ContactMediator contactMediator = CreateContactRequest.ToMediator(contact);
         ContactEntity entity = ContactMediator.ToEntity(contactMediator);
         _contacts.Add(entity);
+        _contacts.SaveChanges();
+        
         return ContactMediator.From(entity);
     }
 
@@ -42,6 +44,7 @@ public class ContactRepository : IContactRepository
         contactEntity.PhysicalAddress = updateContactRequest.PhysicalAddress;
         contactEntity.FullName = updateContactRequest.FullName;
         _contacts.Update(contactEntity);
+        _contacts.SaveChanges();
         return ContactMediator.From(contactEntity);
     }
 
